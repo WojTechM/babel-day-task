@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/roman/babel/babel-day-task/main.c" "/home/roman/babel/babel-day-task/cmake-build-debug/CMakeFiles/untitled.dir/main.c.o"
+  "/home/karol/codecool/Codecool-advanced-module/babel-day-task/TextHandler.c" "/home/karol/codecool/Codecool-advanced-module/babel-day-task/cmake-build-debug/CMakeFiles/untitled.dir/TextHandler.c.o"
+  "/home/karol/codecool/Codecool-advanced-module/babel-day-task/main.c" "/home/karol/codecool/Codecool-advanced-module/babel-day-task/cmake-build-debug/CMakeFiles/untitled.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

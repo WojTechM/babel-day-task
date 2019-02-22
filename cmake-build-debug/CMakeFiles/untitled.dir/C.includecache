@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/roman/babel/babel-day-task/main.c
+/home/karol/codecool/Codecool-advanced-module/babel-day-task/main.c
 stdio.h
 -
 stdlib.h
+-
+string.h
 -
 

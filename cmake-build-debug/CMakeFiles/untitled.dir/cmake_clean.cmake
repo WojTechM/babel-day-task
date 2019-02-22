@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/main.c.o"
+  "CMakeFiles/untitled.dir/TextHandler.c.o"
   "untitled.pdb"
   "untitled"
 )
