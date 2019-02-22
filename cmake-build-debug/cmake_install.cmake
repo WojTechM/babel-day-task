@@ -1,4 +1,4 @@
-# Install script for directory: /home/roman/babel/babel-day-task
+# Install script for directory: /home/makiela/codecool/babel-day-task
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/roman/babel/babel-day-task/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/makiela/codecool/babel-day-task/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
